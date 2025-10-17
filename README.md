@@ -1,4 +1,4 @@
-#Devclub   ubiquitous-queijadas-821f1e.netlify.app
+#Devclub   
 🔹 Tecnologias utilizadas:  HTML5 — Estrutura semântica e organizada  CSS3 — Layout responsivo, efeitos de gradiente e animações personalizadas  JavaScript (puro) — Controle de slides, timer automático e navegação interativa  Google Fonts (Orbitron e Montserrat) — Tipografia moderna e tecnológica
 
 
@@ -29,3 +29,5 @@ Transição automática entre produtos a cada 5 segundos
 Layout centralizado e adaptável para dispositivos móveis
 
 Efeitos de luz e movimento que dão sensação de profundidade
+
+ubiquitous-queijadas-821f1e.netlify.app
